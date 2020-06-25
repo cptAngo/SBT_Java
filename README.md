@@ -1,2 +1,2 @@
 # SBT_Java
-Homeworks for Java SBT
+Homework for Java SBT
